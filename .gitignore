@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Build output
+/build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
